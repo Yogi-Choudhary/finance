@@ -1,0 +1,15 @@
+current directory: /home/wr0ngway/Desktop/my-rails-prj/finance/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+/home/wr0ngway/.rvm/rubies/ruby-2.7.0/bin/ruby -I /home/wr0ngway/.rvm/rubies/ruby-2.7.0/lib/ruby/site_ruby/2.7.0 -r ./siteconf20210501-10790-1o30344.rb extconf.rb
+creating Makefile
+
+current directory: /home/wr0ngway/Desktop/my-rails-prj/finance/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= clean
+
+current directory: /home/wr0ngway/Desktop/my-rails-prj/finance/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\=
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/wr0ngway/Desktop/my-rails-prj/finance/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= install
+/usr/bin/install -m 0755 cruby.so ./.gem.20210501-10790-1brfult/skiptrace/internal
