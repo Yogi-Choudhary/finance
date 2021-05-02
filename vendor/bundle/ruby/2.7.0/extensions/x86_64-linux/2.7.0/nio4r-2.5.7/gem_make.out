@@ -1,5 +1,5 @@
 current directory: /home/wr0ngway/Desktop/my-rails-prj/finance/vendor/bundle/ruby/2.7.0/gems/nio4r-2.5.7/ext/nio4r
-/home/wr0ngway/.rvm/rubies/ruby-2.7.0/bin/ruby -I /home/wr0ngway/.rvm/rubies/ruby-2.7.0/lib/ruby/site_ruby/2.7.0 -r ./siteconf20210501-10790-1ia41t4.rb extconf.rb
+/home/wr0ngway/.rvm/rubies/ruby-2.7.0/bin/ruby -I /home/wr0ngway/.rvm/rubies/ruby-2.7.0/lib/ruby/site_ruby/2.7.0 -r ./siteconf20210502-8312-1d5kksd.rb extconf.rb
 checking for unistd.h... yes
 checking for linux/aio_abi.h... yes
 checking for linux/io_uring.h... no
@@ -99,4 +99,4 @@ linking shared-object nio4r_ext.so
 
 current directory: /home/wr0ngway/Desktop/my-rails-prj/finance/vendor/bundle/ruby/2.7.0/gems/nio4r-2.5.7/ext/nio4r
 make DESTDIR\= install
-/usr/bin/install -m 0755 nio4r_ext.so ./.gem.20210501-10790-19n8ze7
+/usr/bin/install -m 0755 nio4r_ext.so ./.gem.20210502-8312-pk0p92

@@ -1,5 +1,5 @@
 current directory: /home/wr0ngway/Desktop/my-rails-prj/finance/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
-/home/wr0ngway/.rvm/rubies/ruby-2.7.0/bin/ruby -I /home/wr0ngway/.rvm/rubies/ruby-2.7.0/lib/ruby/site_ruby/2.7.0 -r ./siteconf20210501-10790-1ygfsrr.rb extconf.rb
+/home/wr0ngway/.rvm/rubies/ruby-2.7.0/bin/ruby -I /home/wr0ngway/.rvm/rubies/ruby-2.7.0/lib/ruby/site_ruby/2.7.0 -r ./siteconf20210502-8312-73x3gw.rb extconf.rb
 creating Makefile
 
 current directory: /home/wr0ngway/Desktop/my-rails-prj/finance/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
@@ -77,4 +77,4 @@ linking shared-object sassc/libsass.so
 
 current directory: /home/wr0ngway/Desktop/my-rails-prj/finance/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
 make DESTDIR\= install
-/usr/bin/install -m 0755 libsass.so ./.gem.20210501-10790-1fkbv1e/sassc
+/usr/bin/install -m 0755 libsass.so ./.gem.20210502-8312-159nt6t/sassc

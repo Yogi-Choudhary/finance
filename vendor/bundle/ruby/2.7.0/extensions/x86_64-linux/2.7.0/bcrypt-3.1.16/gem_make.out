@@ -1,5 +1,5 @@
 current directory: /home/wr0ngway/Desktop/my-rails-prj/finance/vendor/bundle/ruby/2.7.0/gems/bcrypt-3.1.16/ext/mri
-/home/wr0ngway/.rvm/rubies/ruby-2.7.0/bin/ruby -I /home/wr0ngway/.rvm/rubies/ruby-2.7.0/lib/ruby/site_ruby/2.7.0 -r ./siteconf20210501-10790-1wgc9k6.rb extconf.rb
+/home/wr0ngway/.rvm/rubies/ruby-2.7.0/bin/ruby -I /home/wr0ngway/.rvm/rubies/ruby-2.7.0/lib/ruby/site_ruby/2.7.0 -r ./siteconf20210502-8312-14okd0o.rb extconf.rb
 creating Makefile
 
 current directory: /home/wr0ngway/Desktop/my-rails-prj/finance/vendor/bundle/ruby/2.7.0/gems/bcrypt-3.1.16/ext/mri
@@ -23,4 +23,4 @@ linking shared-object bcrypt_ext.so
 
 current directory: /home/wr0ngway/Desktop/my-rails-prj/finance/vendor/bundle/ruby/2.7.0/gems/bcrypt-3.1.16/ext/mri
 make DESTDIR\= install
-/usr/bin/install -m 0755 bcrypt_ext.so ./.gem.20210501-10790-xs3yqp
+/usr/bin/install -m 0755 bcrypt_ext.so ./.gem.20210502-8312-1h6u03d

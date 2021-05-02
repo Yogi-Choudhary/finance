@@ -1,5 +1,5 @@
 current directory: /home/wr0ngway/Desktop/my-rails-prj/finance/vendor/bundle/ruby/2.7.0/gems/msgpack-1.4.2/ext/msgpack
-/home/wr0ngway/.rvm/rubies/ruby-2.7.0/bin/ruby -I /home/wr0ngway/.rvm/rubies/ruby-2.7.0/lib/ruby/site_ruby/2.7.0 -r ./siteconf20210501-10790-fdwjev.rb extconf.rb
+/home/wr0ngway/.rvm/rubies/ruby-2.7.0/bin/ruby -I /home/wr0ngway/.rvm/rubies/ruby-2.7.0/lib/ruby/site_ruby/2.7.0 -r ./siteconf20210502-8312-1kjgqzv.rb extconf.rb
 checking for ruby/st.h... yes
 checking for st.h... yes
 checking for rb_str_replace() in ruby.h... yes
@@ -82,4 +82,4 @@ linking shared-object msgpack/msgpack.so
 
 current directory: /home/wr0ngway/Desktop/my-rails-prj/finance/vendor/bundle/ruby/2.7.0/gems/msgpack-1.4.2/ext/msgpack
 make DESTDIR\= install
-/usr/bin/install -m 0755 msgpack.so ./.gem.20210501-10790-sy9qnh/msgpack
+/usr/bin/install -m 0755 msgpack.so ./.gem.20210502-8312-b6cqwm/msgpack
