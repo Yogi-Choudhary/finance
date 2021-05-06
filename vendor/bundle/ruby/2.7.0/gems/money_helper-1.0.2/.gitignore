@@ -1,4 +1,0 @@
-Gemfile.lock
-gemfiles/*.lock
-gemfiles/.bundle
-gemfiles/vendor
